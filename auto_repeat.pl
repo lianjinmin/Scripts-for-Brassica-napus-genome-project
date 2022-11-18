@@ -8,9 +8,6 @@
 	Base on denovo_repeat_find.pl and find_repeat.pl.This program invoke Piler, RepeatScout, LTR_FINDER, RepeatModeler,
 	RepeatMasker and  ProteinMask.The path of the softwares invoked will be put in the "config.txt". 
 
-=head1 Version
-
-	Version: 1.0    Date: 2010-07-05
 
 =head1 Usage
 
