@@ -4,14 +4,6 @@
 
 =head1 Description
 
-=head1 Version
-
-	Version: 2.2	Date: 2012-01-05
-	Version: 2.1	Date: 2011-10-20
-	Version: 2.0    Date: 2011-08-01
-	Updata: 2016a	Date: 2016-03-04
-	Updata: 2016-04-28
-
 =head1 Usage
 
     perl auto_gene_finding.pl [options] <genome.fa> <remask_genome.fa>
