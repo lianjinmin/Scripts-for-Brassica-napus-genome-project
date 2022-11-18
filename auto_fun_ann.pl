@@ -30,14 +30,7 @@
             Phobius
             TMHMM
 
-=head1 Version
-        Version: 1.0    Date: 2010-08-01
-        Updata: 2.0     Data: 2015-05-21
-        Updata: 2016a     Data: 2016-01-21
-	Updata: 2016a     Data: 2016-05-06
-        Note:
-        (1)Added kegg mapping programm, and could search against kegg database for animal or plant separately.
-        (2)Added lines option.
+
 
 =head1 Usage
 
