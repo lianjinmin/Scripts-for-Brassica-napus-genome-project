@@ -8,10 +8,6 @@
 	Base on find-RNA.pl and scan_Rfam.pl.
 	This program will make directory and work.sh.
 
-=head1 Version
-
-    Version: 1.0    Date: 2010-07-15
-    Update: 2016a   Date: 2016-1-20
 
 =head1 Usage
 
